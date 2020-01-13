@@ -2,6 +2,6 @@
     Le train de 
 ________________________
 
-+ brew install ls
++ brew install sl
 
-ls
+sl
